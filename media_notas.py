@@ -3,6 +3,8 @@ def calcular_media(notas):
         raise ValueError("A lista de notas não pode estar vazia.")
     return sum(notas) / len(notas)
 
+def soma (a,b):
+    return a + b
 
 def main():
     notas = []

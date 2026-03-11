@@ -1,0 +1,1 @@
+print("Teste de importação do módulo media_notas")
